@@ -25,6 +25,6 @@ JavaScript (ES6) – DOM manipulation and dynamic features
 
 
 🔗 Live Demo
-👉 Visit Live Website
+👉 [Visit Live Website](https://shaqran92.github.io/Stylish-Modern-E-Commerce-Website/)
 
-👉 View on GitHub
+👉 [View on GitHub](https://github.com/Shaqran92/Stylish-Modern-E-Commerce-Website)
