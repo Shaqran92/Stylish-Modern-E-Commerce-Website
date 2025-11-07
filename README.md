@@ -19,7 +19,12 @@ This project focuses on elegant UI design, smooth animations, and seamless user 
 🧠 Tech Stack
 
 HTML5 – Semantic structure
-
 CSS3 – Flexbox, Grid, and custom animations
-
 JavaScript (ES6) – DOM manipulation and dynamic features
+
+
+
+🔗 Live Demo
+👉 Visit Live Website
+
+👉 View on GitHub
