@@ -3,7 +3,7 @@
 A sleek, responsive, and interactive E-Commerce Website built using HTML, CSS, and JavaScript.
 This project focuses on elegant UI design, smooth animations, and seamless user experience — from browsing products to adding them to the cart or wishlist.
 
-🚀 Features
+## 🚀 Features
 
 ✨ Modern UI/UX Design – Clean layout with smooth transitions and subtle animations.
 🛒 Shopping Cart Functionality – Add items to cart with live counter updates.
@@ -16,7 +16,7 @@ This project focuses on elegant UI design, smooth animations, and seamless user 
 ☁️ Dark Mode Ready – Automatically adapts to user system preferences.
 💬 Toast Notifications – Real-time feedback for user actions.
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 
 HTML5 – Semantic structure
 CSS3 – Flexbox, Grid, and custom animations
@@ -24,7 +24,7 @@ JavaScript (ES6) – DOM manipulation and dynamic features
 
 
 
-🔗 Live Demo
+## 🔗 Live Demo
 👉 [Visit Live Website](https://shaqran92.github.io/Stylish-Modern-E-Commerce-Website/)
 
 👉 [View on GitHub](https://github.com/Shaqran92/Stylish-Modern-E-Commerce-Website)
